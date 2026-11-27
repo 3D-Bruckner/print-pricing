@@ -19,7 +19,7 @@ priceParts(print); // { material: 2.25, time: 2, multicolor: 0, addOns: 1, fee: 
 It has no dependencies and runs in a browser and on a server. Install it from a release tag:
 
 ```sh
-npm install https://github.com/Marceltov/print-pricing/archive/refs/tags/v0.1.0.tar.gz
+npm install https://github.com/3D-Bruckner/print-pricing/archive/refs/tags/v0.1.0.tar.gz
 ```
 
 Tests: `npm test`. Formatting: `npm run format`. A release is a tag `vX.Y.Z` on `main` that matches `package.json`.
